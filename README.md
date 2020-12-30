@@ -24,3 +24,4 @@ Student Name | 	Project |
 **Izzat Siam** |	[website](https://izzat-jb.github.io/HW1onGH/)
 **Sami Saiam** |	[website](https://samisaiam.github.io/world-nature/)
 **Noor Totah** |	[website](https://noortotah.github.io/try-github-pages/)
+**Ouday Abusier** |	[website](https://ouday-abusier.github.io/oday-s-website/)
