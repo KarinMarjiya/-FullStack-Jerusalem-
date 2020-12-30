@@ -25,3 +25,4 @@ Student Name | 	Project |
 **Sami Saiam** |	[website](https://samisaiam.github.io/world-nature/)
 **Noor Totah** |	[website](https://noortotah.github.io/simple-shopping-cart/)
 **Ouday Abusier** |	[website](https://ouday-abusier.github.io/oday-s-website/)
+**Khalil Amira** |	[website](https://khalilamira22.github.io/kalil/)
