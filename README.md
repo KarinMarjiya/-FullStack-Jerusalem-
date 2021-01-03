@@ -26,3 +26,5 @@ Student Name | 	Project |
 **Noor Totah** |	[website](https://noortotah.github.io/simple-shopping-cart/)
 **Ouday Abusier** |	[website](https://ouday-abusier.github.io/oday-s-website/)
 **Khalil Amira** |	[website](https://khalilamira22.github.io/kalil/)
+**Moutz Shehadeh** |	[website](https://moutazshehadeh.github.io/moutaz-sh/)
+**Omar Siam** |	[website](https://omarsiam.github.io/omarcars/)
