@@ -13,11 +13,11 @@ The projects were developed using HTML,CSS,JS technologies.
 
 Student Name | 	Project |
 --- | --- |
-**Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb)
-**Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/)
-**Mohammed Barbar** |	[website](https://mohammedbarbar.github.io/Draft/)
-**Insherah Surkhi** |	[website](https://insherah-surkhi.github.io/relax-tone)
-**Ameer Abu Khadijeh** |	[website](https://github.com/ameerabukhadijeh)
+1 | **Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb)
+2 | **Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/)
+4 | **Mohammed Barbar** |	[website](https://mohammedbarbar.github.io/Draft/)
+5 | **Insherah Surkhi** |	[website](https://insherah-surkhi.github.io/relax-tone)
+**Ameer Abu Khadijeh** |	[website](https://ameerabukhadijeh.github.io/ameer/)
 **Mohammad Salameh** |	[website](https://mohammadsalameh12.github.io/clock/)
 **Duha Kiswani** |	[website](https://duha-se.github.io/Ex/)
 **Eyad Marmash** |	[website](https://eyadma.github.io/eyadmcv/)
