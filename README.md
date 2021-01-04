@@ -16,7 +16,7 @@ Student Name | 	Project |
 **Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb)
 **Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/)
 **Mohammed Barbar** |	[website](https://mohammedbarbar.github.io/Draft/)
-**Insherah Surkhi** |	[website](https://insherah-surkhi.github.io/relax-tone)
+**Insherah Surkhi** |	[website](https://insherah-surkhi.github.io/relax)
 **Ameer Abu Khadijeh** |	[website](https://ameerabukhadijeh.github.io/ameer/)
 **Mohammad Salameh** |	[website](https://mohammadsalameh12.github.io/clock/)
 **Duha Kiswani** |	[website](https://duha-se.github.io/Ex/)
