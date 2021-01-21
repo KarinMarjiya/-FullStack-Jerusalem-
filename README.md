@@ -12,7 +12,7 @@ The projects were developed using HTML,CSS,JS technologies.
 **instructor: Eyal Goldstein**
 
 Student Name | 	Github Project | FireBase Project
---- | --- |
+--- | --- | --- |
 **Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb) |  [website](https://karinmarjieh.github.io/simpleweb)
 **Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/) | [website](https://karinmarjieh.github.io/simpleweb)
 **Mohammed Barbar** |	[website](https://mohammedbarbar.github.io/Draft/) | [website](https://karinmarjieh.github.io/simpleweb)
