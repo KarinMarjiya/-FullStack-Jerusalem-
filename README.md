@@ -11,20 +11,20 @@ The projects were developed using HTML,CSS,JS technologies.
 
 **instructor: Eyal Goldstein**
 
-Student Name | 	Project |
+Student Name | 	Github Project | FireBase Project
 --- | --- |
-**Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb)
-**Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/)
-**Mohammed Barbar** |	[website](https://mohammedbarbar.github.io/Draft/)
-**Insherah Surkhi** |	[website](https://insherah-surkhi.github.io/relax)
-**Ameer Abu Khadijeh** |	[website](https://ameerabukhadijeh.github.io/ameer/)
-**Mohammad Salameh** |	[website](https://mohammadsalameh12.github.io/clock/)
-**Duha Kiswani** |	[website](https://duha-se.github.io/Ex/)
-**Eyad Marmash** |	[website](https://eyadma.github.io/eyadmcv/)
-**Izzat Siam** |	[website](https://izzat-jb.github.io/HW1onGH/)
-**Sami Saiam** |	[website](https://samisaiam.github.io/world-nature/)
-**Noor Totah** |	[website](https://noortotah.github.io/simple-shopping-cart/)
-**Ouday Abusier** |	[website](https://ouday-abusier.github.io/oday-s-website/)
-**Khalil Amira** |	[website](https://khalilamira22.github.io/kalil/)
-**Moutz Shehadeh** |	[website](https://moutazshehadeh.github.io/moutaz-sh/)
-**Omar Siam** |	[website](https://omarsiam.github.io/omarcars/)
+**Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb) |  
+**Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/) |
+**Mohammed Barbar** |	[website](https://mohammedbarbar.github.io/Draft/) |
+**Insherah Surkhi** |	[website](https://insherah-surkhi.github.io/relax) |
+**Ameer Abu Khadijeh** |	[website](https://ameerabukhadijeh.github.io/ameer/) |
+**Mohammad Salameh** |	[website](https://mohammadsalameh12.github.io/clock/) |
+**Duha Kiswani** |	[website](https://duha-se.github.io/Ex/) |
+**Eyad Marmash** |	[website](https://eyadma.github.io/eyadmcv/) |
+**Izzat Siam** |	[website](https://izzat-jb.github.io/HW1onGH/) |
+**Sami Saiam** |	[website](https://samisaiam.github.io/world-nature/) |
+**Noor Totah** |	[website](https://noortotah.github.io/simple-shopping-cart/) |
+**Ouday Abusier** |	[website](https://ouday-abusier.github.io/oday-s-website/) |
+**Khalil Amira** |	[website](https://khalilamira22.github.io/kalil/) |
+**Moutz Shehadeh** |	[website](https://moutazshehadeh.github.io/moutaz-sh/) |
+**Omar Siam** |	[website](https://omarsiam.github.io/omarcars/) |
