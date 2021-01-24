@@ -23,7 +23,7 @@ Student Name | 	Github Project | FireBase Project
 **Eyad Marmash** |	[website](https://eyadma.github.io/eyadmcv/) | []()
 **Izzat Siam** |	[website](https://izzat-jb.github.io/HW1onGH/) | []()
 **Sami Saiam** |	[website](https://samisaiam.github.io/world-nature/) | []()
-**Noor Totah** |	[website](https://noortotah.github.io/simple-shopping-cart/) | [website](https://simple-html-shopping-cart.web.app/)
+**Noor Totah** |	[website](https://noortotah.github.io/simple-shopping-cart/) | [website](https://simple-html-shopping-cart.web.app/) ,[website2](https://atteq-5eda8.web.app/) 
 **Ouday Abusier** |	[website](https://ouday-abusier.github.io/oday-s-website/) | []()
 **Khalil Amira** |	[website](https://khalilamira22.github.io/kalil/) | []()
 **Moutz Shehadeh** |	[website](https://moutazshehadeh.github.io/moutaz-sh/) | []()
