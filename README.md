@@ -13,7 +13,7 @@ The projects were developed using HTML,CSS,JS technologies.
 
 Student Name | 	Github Project | FireBase Project
 --- | --- | --- |
-**Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb) |  []()
+**Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb) |  [website](https://jeru-bbec3.web.app/)
 **Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/) | []()
 **Mohammed Barbar** |	[website](https://mohammedbarbar.github.io/Draft/) | []()
 **Insherah Surkhi** |	[website](https://insherah-surkhi.github.io/relax) | []()
