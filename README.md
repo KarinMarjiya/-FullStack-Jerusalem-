@@ -24,7 +24,7 @@ Student Name | 	Github Project | FireBase Project | Countries API Project
 **Izzat Siam** |	[website](https://izzat-jb.github.io/HW1onGH/) | []() | []()
 **Sami Saiam** |	[website](https://samisaiam.github.io/world-nature/) | []() | []()
 **Noor Totah** |	[website](https://noortotah.github.io/simple-shopping-cart/) | [HTML](https://simple-html-shopping-cart.web.app/) ,[Angular](https://atteq-5eda8.web.app/) | [web](https://countriesapi-a25b3.firebaseapp.com/)
-**Ouday Abusier** |	[website](https://ouday-abusier.github.io/oday-s-website/)  | []() | [website](https://fullstack-26cbc.web.app)
+**Ouday Abusier** |	[website](https://ouday-abusier.github.io/oday-s-website/)  | []() | [web](https://fullstack-26cbc.web.app)
 **Khalil Amira** |	[website](https://khalilamira22.github.io/kalil/) | []() | [web](https://my-world-2-2fe9b.web.app/)
 **Moutz Shehadeh** |	[website](https://moutazshehadeh.github.io/moutaz-sh/) | []() | [web](https://firstproject-ed1ca.web.app/)
 **Omar Siam** |	[website](https://omarsiam.github.io/omarcars/) | []() | []()
