@@ -11,8 +11,8 @@ The projects were developed using HTML,CSS,JS technologies.
 
 **instructor: Eyal Goldstein**
 
-Student Name | 	Github Project | FireBase Project
---- | --- | --- |
+Student Name | 	Github Project | FireBase Project | Countries  
+--- | --- | --- | -- |
 **Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb) |  [website](https://jeru-bbec3.web.app/)
 **Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/) | []()
 **Mohammed Barbar** |	[website](https://mohammedbarbar.github.io/Draft/) | [website](https://mywebsite-fe64c.web.app/)
@@ -23,8 +23,9 @@ Student Name | 	Github Project | FireBase Project
 **Eyad Marmash** |	[website](https://eyadma.github.io/eyadmcv/) | []()
 **Izzat Siam** |	[website](https://izzat-jb.github.io/HW1onGH/) | []()
 **Sami Saiam** |	[website](https://samisaiam.github.io/world-nature/) | []()
-**Noor Totah** |	[website](https://noortotah.github.io/simple-shopping-cart/) | [HTML](https://simple-html-shopping-cart.web.app/) ,[Angular](https://atteq-5eda8.web.app/) 
+**Noor Totah** |	[website](https://noortotah.github.io/simple-shopping-cart/) | [HTML](https://simple-html-shopping-cart.web.app/) ,[Angular](https://atteq-5eda8.web.app/) | [web](https://countriesapi-a25b3.firebaseapp.com/)
 **Ouday Abusier** |	[website](https://ouday-abusier.github.io/oday-s-website/) | [website](https://fullstack-26cbc.web.app)
 **Khalil Amira** |	[website](https://khalilamira22.github.io/kalil/) | []()
 **Moutz Shehadeh** |	[website](https://moutazshehadeh.github.io/moutaz-sh/) | []()
 **Omar Siam** |	[website](https://omarsiam.github.io/omarcars/) | []()
+|
