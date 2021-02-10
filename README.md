@@ -11,12 +11,12 @@ The projects were developed using HTML,CSS,JS technologies.
 
 **instructor: Eyal Goldstein**
 
-Student Name | 	Github Project | FireBase Project | Countries  
+Student Name | 	Github Project | FireBase Project | Countries API Project
 --- | --- | --- | -- |
-**Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb) |  [website](https://jeru-bbec3.web.app/)
+**Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb) |  [website](https://jeru-bbec3.web.app/) | [web](https://countries-8079c.web.app/)
 **Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/) | []()
 **Mohammed Barbar** |	[website](https://mohammedbarbar.github.io/Draft/) | [website](https://mywebsite-fe64c.web.app/)
-**Insherah Surkhi** |	[website](https://insherah-surkhi.github.io/relax) | [website](https://enjoy-6b4d2.web.app)
+**Insherah Surkhi** |	[website](https://insherah-surkhi.github.io/relax) | [website](https://enjoy-6b4d2.web.app) | [web](https://world-country.web.app/)
 **Ameer Abu Khadijeh** |	[website](https://ameerabukhadijeh.github.io/ameer/) | []()
 **Mohammad Salameh** |	[website](https://mohammadsalameh12.github.io/clock/) | [website](https://my-html-69287.web.app/)
 **Duha Kiswani** |	[website](https://duha-se.github.io/Ex/) | []()
