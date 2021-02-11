@@ -11,7 +11,7 @@ The projects were developed using HTML,CSS,JS technologies.
 
 **instructor: Eyal Goldstein**
 
-Number | Student Name | 	Github Project | FireBase Project | Countries API Project | PHP with Template
+Number | Student Name | 	Github Project | first FireBase Project | Countries API Project | PHP with Template
 ---| --- | --- | --- | --- | ---|
 1 | **Karin Marjiya** |	[website](https://karinmarjieh.github.io/simpleweb) |  [website](https://jeru-bbec3.web.app/) | [web](https://countries-8079c.web.app/) |
 2 | **Khaldoun Takrouri** |	[website](https://kht75.github.io/jerWepDevelopment/) | []() | [web](https://khald-f36d5.web.app/) |
