@@ -21,7 +21,7 @@ Number | Student Name | 	Github Project | first FireBase Project | Countries API
 6 | **Mohammad Salameh** |	[website](https://mohammadsalameh12.github.io/clock/) | [website](https://my-html-69287.web.app/) | [web](https://countries-of-the-world-88fdf.web.app/) |
 7 | **Duha Kiswani** |	[website](https://duha-se.github.io/Ex/) | []() | [web](https://countries-42876.web.app/) |
 8 | **Eyad Marmash** |	[website](https://eyadma.github.io/eyadmcv/) | []() | [web](https://taskone-c8f02.web.app/) |
-9 | **Izzat Siam** |	[website](https://izzat-jb.github.io/HW1onGH/) | []() | []() |
+9 | **Izzat Siam** |	[website](https://izzat-jb.github.io/HW1onGH/) | []() | [web](https://izzat-e6219.web.app/) |
 10 | **Sami Saiam** |	[website](https://samisaiam.github.io/world-nature/) | []() | []() |
 11 | **Noor Totah** |	[website](https://noortotah.github.io/simple-shopping-cart/) | [HTML](https://simple-html-shopping-cart.web.app/) ,[Angular](https://atteq-5eda8.web.app/) | [web](https://countriesapi-a25b3.firebaseapp.com/) |
 11 | **Ouday Abusier** |	[website](https://ouday-abusier.github.io/oday-s-website/)  | []() | [web](https://fullstack-26cbc.web.app) |
