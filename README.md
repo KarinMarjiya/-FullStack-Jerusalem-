@@ -22,7 +22,7 @@ Number | Student Name | 	Github Project | first FireBase Project | Countries API
 7 | **Duha Kiswani** |	[website](https://duha-se.github.io/Ex/) | []() | [web](https://countries-42876.web.app/) |
 8 | **Eyad Marmash** |	[website](https://eyadma.github.io/eyadmcv/) | []() | [web](https://taskone-c8f02.web.app/) |
 9 | **Izzat Siam** |	[website](https://izzat-jb.github.io/HW1onGH/) | []() | [web](https://izzat-e6219.web.app/) |
-10 | **Sami Saiam** |	[website](https://samisaiam.github.io/world-nature/) | []() | []() |
+10 | **Sami Saiam** |	[website](https://samisaiam.github.io/world-nature/) | []() | [web](https://sami-7923a.web.app/) |
 11 | **Noor Totah** |	[website](https://noortotah.github.io/simple-shopping-cart/) | [HTML](https://simple-html-shopping-cart.web.app/) ,[Angular](https://atteq-5eda8.web.app/) | [web](https://countriesapi-a25b3.firebaseapp.com/) |
 11 | **Ouday Abusier** |	[website](https://ouday-abusier.github.io/oday-s-website/)  | []() | [web](https://fullstack-26cbc.web.app) |
 12 | **Khalil Amira** |	[website](https://khalilamira22.github.io/kalil/) | []() | [web](https://my-world-2-2fe9b.web.app/) |
